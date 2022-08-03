@@ -8,12 +8,12 @@ Table of contents
 - [Linting workspace](#linting-workspace)
 - [Potential different approaches and additions.](#potential-different-approaches-and-additions)
 
-## 1. Overview
+## Overview
  
  Dictionary management server is a simple server that helps dong some operations over a dictionary, and be able to see statistics. 
 ____________ 
 
-## 2. Technical description and design explanation
+## Technical description and design explanation
 
 ### a. Main packages :
 
@@ -28,7 +28,7 @@ ____________
 
 ____________ 
 
-## 3. Usage 
+## Usage 
 
 ### **- To run the project locally:**
 1. Clone repository or download the archive
